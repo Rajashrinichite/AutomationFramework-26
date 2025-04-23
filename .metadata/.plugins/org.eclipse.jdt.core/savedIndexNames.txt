@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Admin\eclipse-workspace\AutomationFramework.QCO-SOEAJD-M26\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2381178662.index
+3413270776.index
